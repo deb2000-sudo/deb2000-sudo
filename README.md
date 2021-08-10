@@ -1,6 +1,6 @@
 ### Hi Everyone, I am Debashis Nayak ! 👋
 
-
+![](https://activity-graph.herokuapp.com/graph?username=deb2000-sudo&theme=react-dark&hide_border=true&area=true)
 
 - 🔭 I’m currently working on Webwiz Organisation
 - 🌱 I’m currently learning Web Development using React and Node
@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=deb2000-sudo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-![](https://activity-graph.herokuapp.com/graph?username=deb2000-sudo&theme=react-dark&hide_border=true&area=true)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=debashis2000-sudo.visitor-badge)
 
