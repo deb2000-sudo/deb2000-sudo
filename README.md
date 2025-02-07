@@ -1,37 +1,73 @@
-### Hi Everyone, I am Debashis Nayak ! 👋
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![](https://activity-graph.herokuapp.com/graph?username=deb2000-sudo&theme=react-dark&hide_border=true&area=true)
-
-- 🔭 I’m currently working at Crio
-- 🌱 I’m currently learning Web Development using React,Flask
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with a good team for React Projects
-- 💬 Ask me about Javascript,Python,Flask
-- 📫 How to reach me: Linkedln - Debashis Nayak[https://www.linkedin.com/in/debashis-nayak-6b013b198/]
-- 😄 Pronouns: Ha/his
-- ⚡ Fun fact: I am a seeker
-
-<img src="https://github-readme-stats.vercel.app/api?username=deb2000-sudo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=debashis2000-sudo.visitor-badge)
-
-## Languages and Tools I know:
+<h1 align="center">Hi👋 I'm Debashis Nayak</h1>
 
 <p align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>-->
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Tech+Enthusiast;React+%26+Flask+Developer;Always+Learning!" alt="Typing SVG" />
+</a>
 </p>
-</br>
-</br>
 
-//<b>**_Do check out my Repositories and give some stars if you like it_*</b>
+<p align="center">
+<em>
+    This is me <b>Debashis Nayak</b>, a passionate <b>Software Developer</b> working at <b>NxtWave</b>. <br>
+    I specialize in <b>React.js, Flask, and Full Stack Development</b> and have experience working on various projects. </em>
+  <br>
+</p>
+
+---
+
+| Little facts about me | What I'm doing current |
+| --------------------- | --------------------- |
+| <ul><li>🧞 I'm a Tech Enthusiast since childhood.</li><li>🔭 I’m currently working on **Flask and React.js projects**.</li><li>👯 I’m looking to collaborate on **open-source projects**.</li><li>💼 **Learner at IIT Madras** at <a href="https://study.iitm.ac.in/ds/">@IIT Madras</a> & Contributor at <a href="https://rasoriitm.vercel.app/">@Rasor Webops</a>  </li><li>⚡ **Fun fact:** Sci-fi Buff 🚀</li></ul> | <ul><li>MERN</li><li>Machine Learning Foundation</li></ul> |
+
+---
+
+### 🔗 Check out My Work:
+- 🌐 [Portfolio](https://www.crio.do/learn/portfolio/cdnayak2000/)  
+- 📄 [Resume/CV](https://google.com)  
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=deb2000-sudo&repo=my-react-project&theme=dark&hide_border=true)](https://github.com/deb2000-sudo/my-react-project)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=deb2000-sudo&repo=my-flask-api&theme=dark&hide_border=true)](https://github.com/deb2000-sudo/my-flask-api)
+<br>
+
+---
+
+### 📧 Social & Contact
+<div>
+<a href="mailto:your-email@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.linkedin.com/in/debashis-nayak-6b013b198" target="_blank" rel="noreferrer"> <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.instagram.com/yourprofile" target="_blank" rel="noreferrer"> <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://leetcode.com/yourprofile" target="_blank" rel="noreferrer"> <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50"/></a>
+<a href="https://www.youtube.com/@yourchannel" target="_blank" rel="noreferrer"> <img alt="YouTube" src="logo/yt.png" width="55"/></a>
+</div>
+
+---
+
+### 🧑🏻‍💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flask,mysql,git,cpp,py,c)](https://skillicons.dev)
+<br>
+
+---
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=deb2000-sudo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deb2000-sudo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deb2000-sudo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### 💭 Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&bg_color=00000000)
+
+ 
+<br>
+
+---
+
+### 🧋 Buy me a coffee!
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourpaypal)
+[![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://ibb.co/yourpaytm)
+
+[![](https://visitcount.itsvg.in/api?id=deb2000-sudo&label=Profile%20Views&color=6&icon=1&pretty=&theme=dark)](https://bit.ly/m/deb2000-sudo)
