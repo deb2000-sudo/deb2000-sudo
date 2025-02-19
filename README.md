@@ -38,15 +38,19 @@
 <div>
 <a href="mailto:your-email@gmail.com" target="_blank" rel="noreferrer"> <img alt="Email" src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/debashis-nayak-6b013b198" target="_blank" rel="noreferrer"> <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://www.instagram.com/yourprofile" target="_blank" rel="noreferrer"> <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://leetcode.com/yourprofile" target="_blank" rel="noreferrer"> <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50"/></a>
-<a href="https://www.youtube.com/@yourchannel" target="_blank" rel="noreferrer"> <img alt="YouTube" src="logo/yt.png" width="55"/></a>
+<a href="https://www.youtube.com/@yourchannel" target="_blank" rel="noreferrer"> <img alt="YouTube" src="" width="55"/></a>
 </div>
 
 ---
 
 ### 🧑🏻‍💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,flask,mysql,git,cpp,py,c)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,vim,html,css,react,flask,mysql,git,postman,vite,postgres,vue,tailwind&perline=5" />
+  </a>
+</p>
+
 <br>
 
 ---
