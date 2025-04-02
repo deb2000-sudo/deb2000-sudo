@@ -10,7 +10,7 @@
 
 <p align="center">
 <em>
-    This is me <b>Debashis Nayak</b>, a passionate <b>Software Developer</b> working at <b>NxtWave</b>. <br>
+    This is me <b>Debashis Nayak</b>, a passionate <b>Software Developer and Instructor</b> working at <b>NxtWave</b>. <br>
     I specialize in <b>React.js, Flask, and Full Stack Development</b> and have experience working on various projects. </em>
   <br>
 </p>
