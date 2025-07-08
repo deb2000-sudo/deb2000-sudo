@@ -56,17 +56,22 @@
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=deb2000-sudo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deb2000-sudo&theme=dark&hide_border=true)<br/>
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=deb2000-sudo&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deb2000-sudo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+  
+</div>
 
 ---
 
 ### 💭 Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&bg_color=00000000)
 
- 
-<br>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&bg_color=00000000)<br>
+
+
 
 ---
 
